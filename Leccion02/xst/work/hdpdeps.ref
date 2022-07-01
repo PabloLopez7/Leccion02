@@ -1,0 +1,6 @@
+V3 3
+FL C:/Xilinx/Leccion02/memoria2.vhd 2022/07/01.12:50:24 P.20131013
+EN work/memoria2 1656698584 FL C:/Xilinx/Leccion02/memoria2.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/memoria2/Behavioral 1656698585 \
+      FL C:/Xilinx/Leccion02/memoria2.vhd EN work/memoria2 1656698584
